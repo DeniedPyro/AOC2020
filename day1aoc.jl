@@ -1,4 +1,4 @@
-bruh = parse.(Int,readlines("input2.txt"))
+bruh = parse.(Int,readlines("input.txt"))
 # Part 1
 [i+j==2020&&println(i*j) for i∈bruh for j∈bruh]
 # Part 2
