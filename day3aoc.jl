@@ -1,0 +1,1 @@
+eachline(input3.txt)
